@@ -22,4 +22,4 @@ Linux : ❌
 
 # Download
 
-[Lastest Version](https://github.com/N0ub4x/Spacisk/releases/lastest)
+[Latest Version](https://github.com/N0ub4x/Spacisk/releases/latest)
