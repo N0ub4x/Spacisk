@@ -1,8 +1,5 @@
-# Spacisk
-
 # What is this
 Spacisk is an ComManD Prompt Application
-
 that make Space for your Disk.
 
 # Information
