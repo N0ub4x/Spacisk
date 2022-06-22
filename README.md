@@ -6,12 +6,13 @@ that make Space for your Disk.
 
 # Information
 Free : ✅
-Source : 
+
+Source Code : ❌
+
 Run as Administrator : ❌
 
 
 # Supported
-
 Windows : ✅
 
 MacOS : ❌
